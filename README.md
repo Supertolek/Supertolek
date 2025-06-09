@@ -23,3 +23,20 @@ And I honestly think that Godot is way better than Unity.
 [![My OS](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
 
 I mainly use Windows, but learning Linux can be usefull. And my favorite distro is mint.
+
+## My projects
+
+I started a programming language for [LMC](https://lmcgroup.xyz) named LMCDL, but we decided to end the project as it would be too hard to maintain and to ensure there are no security breach.
+
+My main project is **One Lesson**.  
+It's a note taking app designed by a student for students. Its goal is to be as easy as possible to use for both Apple pages, Microsoft word and Libreoffice / Openoffice users, and to have nearly every action in less than 3 key presses.  
+[One Lesson discord](https://discord.gg/FZx4c528jY)
+
+## My contacts
+
+Email:  
+[supertolekmc@gmail.com](mailto:supertolekmc@gmail.com)  
+[lequereth@gmail.com](mailto:lequereth@gmail.com)
+
+Discord:  
+@thomaslequere
