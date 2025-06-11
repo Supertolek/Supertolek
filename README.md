@@ -20,9 +20,9 @@ My journey as a dev is quite unusual, but it helped me to learn lots of programm
 Initially, I was using Sublime Text as my main code editor, but VS Code is so much better!  
 And I honestly think that Godot is way better than Unity.
 
-[![My OS](https://skillicons.dev/icons?i=windows,mint)](https://skillicons.dev)
+[![My OS](https://skillicons.dev/icons?i=windows,mint,arch)](https://skillicons.dev)
 
-I mainly use Windows, but learning Linux can be usefull. And my favorite distro is mint.
+I mainly use Windows, but learning Linux can be usefull. And my favorite distro is mint. I just installed arch (I thought it would be harder), waiting to see if it's cool!
 
 ## My projects
 
